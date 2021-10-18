@@ -1,0 +1,72 @@
+body {
+    background-color:black;
+    background-image: url(https://ramenparados.com/wp-content/uploads/2017/10/your-name.png);
+    margin: 50px;
+    font-size:x-large;
+    color: white;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Logo {
+    width: auto;
+    height: auto;
+    max-width: 500px;
+    max-height: 500px;
+}
+
+.container-fluid a{
+    margin: 50px;
+}
+
+form {
+    width: 450px;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    margin: 0;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+input, textarea {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    border: none;
+    font-size: 17px;
+    border-radius: 15px;
+    opacity: 85%;
+    color: white;
+    text-decoration: none;
+}
+
+textarea {
+    min-height: 100px;
+    max-height: 100px;
+}
+
+#boton {
+    color: rgba(255, 255, 255, 0.9) !important;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 0.5em 1.2em;
+    background: #242a2c;
+    border: 2px solid;
+    position: relative;
+  }
+
+  #boton:hover {
+    color: rgb(255, 255, 255) !important;
+    box-shadow: 0 4px 16px rgb(255, 255, 255);
+    transition: all 0.2s ease;
+  }

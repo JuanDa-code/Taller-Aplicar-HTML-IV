@@ -1,0 +1,37 @@
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2017/01/31/13/40/dark-2024127_960_720.png);
+    margin: 50px;
+    font-size:x-large;
+    color: white;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Logo {
+    width: auto;
+    height: auto;
+    max-width: 500px;
+    max-height: 500px;
+}
+
+.container-fluid a{
+    margin: 50px;
+}
+
+#Portada {
+    padding: 50px;
+}
+
+h1 {
+    text-align: center;
+    padding: 50px;
+}
+
+h2 {
+    text-align: center;
+    padding: 50px;
+}
+
+p {
+    text-align: center;
+}
